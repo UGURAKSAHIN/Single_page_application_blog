@@ -17,7 +17,7 @@ The application is built on powerful technologies such as React, Bootstrap, Zust
 # Installation & Operating
 
 1. Clone the project
-   git clone https://github.com/kullaniciadi/React_js_Blog.git
+   git clone https://github.com/usename/React_js_Blog.git
    cd reactjs_blog
 
 2. Upload necessary packets
